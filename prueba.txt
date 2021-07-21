@@ -9,4 +9,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ---- Lineas ingresadas desde el servidor remoto ----
 
+<<<<<<< HEAD
 ---- jdkljkjgjkgjlkdfg ----
+=======
+
+--- prueba 23 ---
+>>>>>>> 698a9ad4e4647515cab5f1019b65b0da4c18952f
