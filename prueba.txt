@@ -16,4 +16,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 --- prueba 23 ---
 >>>>>>> 698a9ad4e4647515cab5f1019b65b0da4c18952f
 
----- modificacion desde eclipse 2---
+modificacion 2 desde eclipse
